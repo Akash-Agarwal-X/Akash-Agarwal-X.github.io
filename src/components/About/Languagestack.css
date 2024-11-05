@@ -1,0 +1,65 @@
+.tech-icon-container {
+    perspective: 1000px;
+  }
+  
+  .flip-card {
+    position: relative;
+    width: 215px;
+    height: 125px;
+    margin: 15px;
+  }
+  
+  .flip-card-inner {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s; /* Animation for flip effect */
+    transform-style: preserve-3d; /* Preserve 3D effect */
+  }
+  
+  .flip-card-front,
+  .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden; /* Hide back side when facing away */
+    display: flex; /* Center content */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+  }
+  
+  .flip-card-front {
+    z-index: 2; /* Show front side */
+    transform: rotateY(0deg); /* Normal position */
+  }
+  
+  .flip-card-back {
+    transform: rotateY(180deg); /* Rotate back side 180 degrees */
+  }
+  
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .tech-icons {
+    text-align: center !important;
+    font-size: 4.5em !important;
+    padding: 10px !important;
+    opacity: 0.93 !important;
+    border: 1.7px solid #1E90FF !important;
+    border-radius: 5px !important;
+    box-shadow: 4px 5px 4px 3px #1E90FF !important;
+    transition: all 0.4s ease !important;
+  }
+  
+  .tech-icon-images {
+    padding: 20px !important;
+    line-height: 1.6 !important;
+  }
+  
+  @media (max-width: 767px) {
+    .tech-icons {
+      margin: 10px !important;
+    }
+  }
