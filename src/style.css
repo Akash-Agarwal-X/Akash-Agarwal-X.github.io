@@ -223,7 +223,7 @@ button:focus {
   }
   10% {
     transform: rotate(14deg);
-  } /* The following five values can be played with to make the waving more or less extreme */
+  }
   20% {
     transform: rotate(-8deg);
   }
@@ -238,7 +238,7 @@ button:focus {
   }
   60% {
     transform: rotate(0deg);
-  } /* Reset for the last half to pause */
+  }
   100% {
     transform: rotate(0deg);
   }
@@ -320,9 +320,18 @@ button:focus {
 }
 
 .home-about-section {
+  /* position: relative;
+  padding-bottom: 70px !important; */
+  /* background-color: black; */
+  /* padding-top: 70px !important; */
+
   position: relative;
   padding-bottom: 70px !important;
   padding-top: 70px !important;
+  background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.6));
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .home-about-description {
@@ -356,6 +365,7 @@ button:focus {
   position: relative !important;
   display: inline-block !important;
   width: 40px !important;
+  pointer-events: auto;
   height: 40px !important;
   text-align: center !important;
   font-size: 1.2em !important;
