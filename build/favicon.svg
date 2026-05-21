@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7dd3fc" />
+      <stop offset="0.5" stop-color="#38bdf8" />
+      <stop offset="1" stop-color="#0284c7" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#06080c" />
+  <rect width="62" height="62" x="1" y="1" rx="13" fill="none" stroke="url(#g)" stroke-width="2" opacity="0.45" />
+  <text
+    x="50%"
+    y="50%"
+    dy="0.08em"
+    fill="url(#g)"
+    font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif"
+    font-size="38"
+    font-weight="700"
+    text-anchor="middle"
+    dominant-baseline="middle">A</text>
+</svg>

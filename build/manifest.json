@@ -1,0 +1,22 @@
+{
+  "short_name": "Akash Agarwal",
+  "name": "Akash Agarwal — Portfolio",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#06080c",
+  "background_color": "#06080c"
+}
