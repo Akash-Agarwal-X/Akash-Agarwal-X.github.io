@@ -1,32 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb0566f4.css",
-    "main.js": "/static/js/main.3e01b1f3.js",
-    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/AI-Enabled-Black-Hole-Detection-and-Deflection.jpeg": "/static/media/AI-Enabled-Black-Hole-Detection-and-Deflection.04823a9ac97bd25bc75d.jpeg",
-    "static/media/Understanding-the-Nature-of-Consciousness-with-AI.jpeg": "/static/media/Understanding-the-Nature-of-Consciousness-with-AI.a639f3f9ec6e7ed94d18.jpeg",
-    "static/media/Leveraging-AI-to-Automate-Test-Case-Generation-with-Playwright.jpeg": "/static/media/Leveraging-AI-to-Automate-Test-Case-Generation-with-Playwright.f9c0ea7c8123c4bee651.jpeg",
-    "static/media/rpms.jpeg": "/static/media/rpms.07956c6da5cc2ce84c9d.jpeg",
-    "static/media/xseller.jpeg": "/static/media/xseller.83a153abeab076ea6893.jpeg",
-    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/chatx.jpeg": "/static/media/chatx.00736b82a18c68a76679.jpeg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Akash_Agarwal-Resume.pdf": "/static/media/Akash_Agarwal-Resume.785e74b685031cbfa399.pdf",
-    "static/media/logo.png": "/static/media/logo.4540bbdb321088b6371c.png",
-    "static/media/home-main.svg": "/static/media/home-main.5eba41e5ca39897a046d7e1772be34a9.svg",
-    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "main.css": "/static/css/main.858e3320.css",
+    "main.js": "/static/js/main.05fa5622.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "index.html": "/index.html",
-    "main.fb0566f4.css.map": "/static/css/main.fb0566f4.css.map",
-    "main.3e01b1f3.js.map": "/static/js/main.3e01b1f3.js.map",
-    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.858e3320.css.map": "/static/css/main.858e3320.css.map",
+    "main.05fa5622.js.map": "/static/js/main.05fa5622.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb0566f4.css",
-    "static/js/main.3e01b1f3.js"
+    "static/css/main.858e3320.css",
+    "static/js/main.05fa5622.js"
   ]
 }
